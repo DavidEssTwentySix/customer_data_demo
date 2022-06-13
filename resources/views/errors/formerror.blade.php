@@ -5,5 +5,5 @@
                 <li class="form-error-list">{{$error}}</li>
             @endforeach
         </ul>                
-    </div>
+    </div> 
 @endif
